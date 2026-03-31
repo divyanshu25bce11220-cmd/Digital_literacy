@@ -1,0 +1,152 @@
+===============================================================================
+TASK 3: CODING PRACTICE PLATFORMS & CLOUD COLLABORATION TOOLS
+===============================================================================
+
+MODULE: 3
+ROLE: Student Digital Ambassador
+COLLEGE: VIT Bhopal
+DATE: 31 March 2026
+
+===============================================================================
+PART A – CODING PRACTICE (HACKERRANK)
+===============================================================================
+
+PLATFORM CHOSEN: HackerRank
+
+ACCOUNT CREATION:
+- Created account using college email ID: [divyanshu.25bce11220@vitbhopal.ac.in]
+- Username: [@divyanshu_25bce2]
+- Verified email successfully
+
+CHALLENGE COMPLETED:
+- Challenge Name: "Solve Me First"
+- Category: Beginner Level / Python Introduction
+- Task: Arithmetic Operator , Python Division , loops , Python function 
+- Points Earned: 61.67 points
+- Status: Bronze level
+
+PROOF OF COMPLETION:
+- pdf of Screenshots captured showing the solved challenge .
+- File saved as: {task-3-platforms/hackerrank-solve-me-first.png}
+
+===============================================================================
+PART B – GOOGLE WORKSPACE COLLABORATION (MANDATORY)
+===============================================================================
+
+GOOGLE FORM DETAILS:
+- Tool Used: Google Forms (via Google Workspace)
+- Form Title: "Digital literacy awareness Quiz"
+- Purpose: Quiz for batchmates to assess digital literacy knowledge
+- Total Questions: 5 (as per requirement)
+
+QUESTION BREAKDOWN:
+- Multiple Choice Questions: 4
+- Short Answer Questions: 1
+
+QUIZ QUESTIONS:
+
+1. What does "digital literacy" primarily mean?
+A) Knowing how to play video games
+B) The ability to use, understand, and create digital content safely and effectively
+C) Having the latest smartphone or gadget
+D) Only knowing how to browse the internet
+Correct Answer: B
+
+2. Which of the following is the best example of practicing good digital citizenship?
+A) Sharing someone’s private photos without permission
+B) Respecting others’ opinions online and avoiding cyberbullying
+C) Using someone else’s Wi-Fi without asking
+D) Posting fake news to get more likes
+Correct Answer: B
+
+3. What is phishing?
+A) A type of online shopping
+B) A cyber attack where attackers trick you into revealing personal information through fake emails or websites
+C) A method to increase internet speed
+D) A new social media trend
+Correct Answer: B
+
+4. Which action shows strong digital literacy when evaluating online information?
+A) Believing everything you read on social media
+B) Checking the source, date, and credibility of the information before sharing
+C) Sharing a post because it has many likes
+D) Only reading headlines
+Correct Answer: B
+
+Short Answer Question:
+5. Explain in 2-3 sentences why digital literacy is important in today’s world and give one personal example of how you apply it in your daily life.
+    (Open-ended response expected)
+
+GOOGLE SHEETS INTEGRATION:
+- Form linked to Google Sheet for real-time response collection
+- Sheet name: "Digital Literacy Awareness Quiz – Responses"
+- Responses update automatically as users submit the form
+- Enables easy data analysis and tracking of quiz results
+
+SCREENSHOTS CAPTURED:
+1. Google Form View: {task-3-platforms/google-form-quiz.png}
+2. Google Sheet Responses View: {task-3-platforms/google-sheet-responses.png}
+
+GOOGLE FORM LINK:
+[https://docs.google.com/forms/d/e/1FAIpQLSf_HVTnsaM4frZvh0iSzSANpJ7uf1O5tC_P0umKXVmL4_fBsw/viewform?usp=publish-editor]
+(Link also added to README.md file)
+
+===============================================================================
+PROJECT REPORT (150–200 WORDS)
+===============================================================================
+
+For Task 3, I explored two essential digital tools: HackerRank for coding practice and Google Workspace for collaboration.
+
+In Part A, I created an account on HackerRank using my college email and successfully completed the beginner-level Python challenge "Solve Me First." I earned 10 points and received a green "Solved" badge, confirming my submission. This platform will help me practise coding regularly, strengthen my problem-solving abilities, and prepare for technical interviews.
+
+In Part B, I created a Google Form titled "Digital Literacy Awareness Quiz" with exactly five questions—four multiple-choice and one short-answer. I linked the form to a Google Sheet to view responses in real time. This tool will be invaluable in my role as a Student Digital Ambassador, allowing me to create quizzes for batchmates, collect feedback, and organize event registrations efficiently.
+
+These platforms will greatly benefit me academically. HackerRank will support consistent coding practice, while Google Forms will enable effective collaboration and outreach within the campus community. This hands-on experience has enhanced my digital literacy and prepared me to guide peers toward the right online tools for studying and collaboration.
+
+
+===============================================================================
+FILE STRUCTURE (task-3 Explore Coding & Collaboration Platforms/)
+===============================================================================
+
+task-3-platforms/
+├── {hackerrank-solve-me-first.png}          # pdf of Screenshots of completed challenges
+├── {google-form-quiz.png}                   #  pdf of Screenshots of Google Form with 5 questions
+├── https://docs.google.com/spreadsheets/d/1KmnjmzYboHo80Ej3SrehzJiX1bDB5roi5c4W6PS4urI/edit?usp=sharing             # link of linked Google Sheet
+├── https://docs.google.com/forms/d/e/1FAIpQLSf_HVTnsaM4frZvh0iSzSANpJ7uf1O5tC_P0umKXVmL4_fBsw/viewform?usp=publish-editor]         #  Google Form link
+
+
+===============================================================================
+CHECKLIST – TASK 3 COMPLETION
+===============================================================================
+
+PART A – CODING PRACTICE:
+[✓] Created account on HackerRank using college email
+[✓] Completed beginner-level challenge ("Solve Me First")
+[✓] Earned 67 points and bronze level
+[✓] Screenshot saved in task-3 Explore Coding & Collaboration Platforms
+
+PART B – GOOGLE WORKSPACE:
+[✓] Created Google Form with exactly 5 questions
+[✓] Included 4 multiple choice questions
+[✓] Included 1 short answer question
+[✓] Form titled "Digital Literacy Awareness Quiz"
+[✓] Form linked to Google Sheet for response collection
+[✓] Form link added to README.md
+[✓] Screenshot of Google Form saved
+[✓] link of Google Sheet responses saved
+
+
+===============================================================================
+DECLARATION
+===============================================================================
+
+I hereby confirm that I have completed all requirements of Task 3 as outlined
+in the assignment. All screenshots are original and were captured during the
+completion of this task. The Google Form is functional and ready to be shared
+with batchmates for the Digital Literacy Awareness Quiz.
+
+[Divyanshu Shrivastava]
+Student Digital Ambassador
+VIT Bhopal
+
+===============================================================================
