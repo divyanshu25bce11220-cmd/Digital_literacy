@@ -1,0 +1,63 @@
+# Task 4: Email Etiquette & Digital Communication
+
+## Digital Ambassador Responsibility
+
+As a Digital Ambassador, one of your key responsibilities is teaching your peers how to communicate professionally online. This task tests your ability to:
+
+1. Apply email etiquette yourself by drafting professional emails
+2. Communicate those rules clearly to others through a structured checklist
+
+---
+
+## Part A: Professional Emails
+
+Write two professional emails following all standard email etiquette rules.
+
+### Email 1: Student to Professor – Assignment Extension Request
+
+| Element | Requirement |
+|---------|-------------|
+| Subject | Clear and specific |
+| Greeting | Professional (e.g., "Dear Professor [Name],") |
+| Body | Polite request, brief honest reason, respect for professor's time |
+| Sign-off | Proper closing with full name and relevant details |
+
+### Email 2: Student to Internship Coordinator – Summer Internship Interest
+
+| Element | Requirement |
+|---------|-------------|
+| Subject | Clear with purpose and name |
+| Greeting | Professional (e.g., "Dear [Name/Hiring Team],") |
+| Body | Introduction, expression of interest, relevant skills, call to action |
+| Sign-off | Proper closing with name, contact details, and links |
+
+### File Requirements
+
+| Item | Specification |
+|------|---------------|
+| Format | .txt / .docx / .pdf |
+| Saved as |  |
+
+
+---
+
+## Part B: Social Media Do's and Don'ts Checklist
+
+Create a simple checklist for responsible social media use as a college student.
+
+| Element | Specification |
+|---------|---------------|
+| Format | Table or bulleted list |
+| Do's | Minimum 5 |
+| Don'ts | Minimum 5 |
+| Focus | Professionalism, privacy, personal branding, responsible posting |
+
+### File Requirements
+
+| Item | Specification |
+|------|---------------|
+| Format | .md or .txt |
+| saved as |  |
+
+
+---
