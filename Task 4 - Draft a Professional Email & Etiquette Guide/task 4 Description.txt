@@ -35,8 +35,8 @@ Write two professional emails following all standard email etiquette rules.
 
 | Item | Specification |
 |------|---------------|
-| Format | .txt / .docx / .pdf |
-| Saved as |  |
+| Format |.pdf |
+| Saved as | Task - 4 Part A (2) |
 
 
 ---
@@ -56,8 +56,8 @@ Create a simple checklist for responsible social media use as a college student.
 
 | Item | Specification |
 |------|---------------|
-| Format | .md or .txt |
-| saved as |  |
+| Format |.txt |
+| saved as | social-media-checklist |
 
 
 ---
