@@ -1,0 +1,52 @@
+# Stay Safe Online – Prevention Checklist
+
+## For College Students in India
+
+---
+
+### ✅ Actionable Prevention Tips
+
+| # | Prevention Tip |
+|---|----------------|
+| **1** | **Never share your UPI PIN, OTP, or debit/credit card details** with anyone — even if they claim to be a bank employee. |
+| **2** | **Verify caller identity** — Banks never ask for OTP or PIN over phone. Hang up and call the official bank number if unsure. |
+| **3** | **Never install screen-sharing apps** (AnyDesk, TeamViewer) when requested by unknown callers. |
+| **4** | **Check UPI transaction alerts immediately** — If you receive an unexpected OTP, never share it. |
+| **5** | **Use strong, unique passwords** for all online accounts and enable two-factor authentication (2FA). |
+| **6** | **Avoid clicking on suspicious links** received via SMS, email, or WhatsApp claiming lottery wins, refunds, or urgent KYC updates. |
+| **7** | **Keep your devices updated** — Regularly update phone and app software to receive security patches. |
+| **8** | **Set transaction limits** on your UPI apps to minimize potential loss in case of fraud. |
+
+---
+
+### 💰 Financial/UPI Safety Tips (Specific)
+
+| # | Tip |
+|---|-----|
+| **1** | **Enable UPI PIN for every transaction** — Never use apps that allow auto-debit without PIN confirmation. |
+| **2** | **Check recipient name before transferring money** — On Google Pay and PhonePe, always verify the recipient's name before confirming payment. |
+
+---
+
+### 📞 Reporting Channels
+
+| Channel | Details |
+|---------|--------|
+| **National Cyber Crime Portal** | https://cybercrime.gov.in — File a complaint online |
+| **Cyber Crime Helpline** | **1930** — Call immediately after fraud occurs |
+| **Bank Helpline** | Block your card/report to your bank immediately |
+
+---
+
+### 🚨 What to Do If You Are a Victim
+
+1. Stay calm — don't panic
+2. Call **1930** immediately to report
+3. Visit https://cybercrime.gov.in and file a complaint
+4. Block your UPI account or debit card through your bank app
+5. Save all evidence (screenshots, transaction IDs, caller numbers)
+
+---
+
+*Created by: Divyanshu Shrivastava*  
+*Purpose: Digital Ambassador Task 5 – Cybercrime Awareness*
