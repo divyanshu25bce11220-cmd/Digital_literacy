@@ -109,8 +109,8 @@ FILE STRUCTURE (task-3 Explore Coding & Collaboration Platforms/)
 ===============================================================================
 
 task-3-platforms/
-├── {hackerrank-solve-me-first.png}          # pdf of Screenshots of completed challenges
-├── {google-form-quiz.png}                   #  pdf of Screenshots of Google Form with 5 questions
+├── hackerrank problems solved.pdf         # pdf of Screenshots of completed challenges
+├── pdf of digital literacy awareness quiz questions.pdf                #  pdf of Screenshots of Google Form with 5 questions
 ├── https://docs.google.com/spreadsheets/d/1KmnjmzYboHo80Ej3SrehzJiX1bDB5roi5c4W6PS4urI/edit?usp=sharing             # link of linked Google Sheet
 ├── https://docs.google.com/forms/d/e/1FAIpQLSf_HVTnsaM4frZvh0iSzSANpJ7uf1O5tC_P0umKXVmL4_fBsw/viewform?usp=publish-editor]         #  Google Form link
 
